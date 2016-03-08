@@ -10,7 +10,7 @@ by creating buttons for choices which lead to different outcomes when interacted
 
 - Program plays a **sound** for button clicks.
 
-- Program has an option to **return to main** after losing or winning.
+- Program has an option to **return to Screen1** after losing or winning.
 
 - The application launched successfully on the aiStarter emulator.
 
