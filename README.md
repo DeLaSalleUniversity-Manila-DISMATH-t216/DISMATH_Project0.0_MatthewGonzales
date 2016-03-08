@@ -14,7 +14,6 @@ by creating buttons for choices which lead to different outcomes when interacted
 ![img](http://i.imgur.com/6r5vv4J.jpg)
 
 ####The app running on the emulator
-![img](http://imgur.com/EH9RNkI.jpg)
 ![img](http://imgur.com/TjraqZU.jpg)
 ![img](http://imgur.com/ShIn0KI.jpg)
 ![img](http://imgur.com/JE04z0P.jpg)
@@ -37,7 +36,7 @@ by creating buttons for choices which lead to different outcomes when interacted
 
 
 ###See full albums
-[EMULATOR]:http://imgur.com/a/jqHEx
-[BLOCKS]:https://imgur.com/a/msgge
+[EMULATOR]: http://imgur.com/a/jqHEx
+[BLOCKS]: https://imgur.com/a/msgge
 
 
