@@ -14,26 +14,26 @@ by creating buttons for choices which lead to different outcomes when interacted
 ![img](http://i.imgur.com/6r5vv4J.jpg)
 
 ####The app running on the emulator
-![img](http://imgur.com/EH9RNkI)
-![img](http://imgur.com/TjraqZU)
-![img](http://imgur.com/ShIn0KI)
-![img](http://imgur.com/JE04z0P)
+![img](http://imgur.com/EH9RNkI.jpg)
+![img](http://imgur.com/TjraqZU.jpg)
+![img](http://imgur.com/ShIn0KI.jpg)
+![img](http://imgur.com/JE04z0P.jpg)
 
 ####Blocks of each screen
 
 - Screen 1:
-![img](http://imgur.com/Icc5CfA)
+![img](http://imgur.com/Icc5CfA.jpg)
 - Screen 2:
-![img](http://imgur.com/0TItX7F)
+![img](http://imgur.com/0TItX7F.jpg)
 - GATE:
-![img](http://imgur.com/1jr2Bqh)
+![img](http://imgur.com/1jr2Bqh.jpg)
 - INNER1
-![img](http://imgur.com/SZlIbV4)
+![img](http://imgur.com/SZlIbV4.jpg)
 - FAIL1 & FAIL2:
-![img](http://imgur.com/SGASlva)
-![img](http://imgur.com/9BFsil9)
+![img](http://imgur.com/SGASlva.jpg)
+![img](http://imgur.com/9BFsil9.jpg)
 - WIN:
-![img](http://imgur.com/r3ym3FI)
+![img](http://imgur.com/r3ym3FI.jpg)
 
 
 ###See full albums
