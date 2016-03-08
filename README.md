@@ -36,7 +36,7 @@ by creating buttons for choices which lead to different outcomes when interacted
 
 
 ###See full albums
-[EMULATOR]: http://imgur.com/a/jqHEx
-[BLOCKS]: https://imgur.com/a/msgge
+[EMULATOR]( http://imgur.com/a/jqHEx)
+[BLOCKS](https://imgur.com/a/msgge)
 
 
