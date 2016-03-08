@@ -8,7 +8,14 @@ by creating buttons for choices which lead to different outcomes when interacted
 
 - Program also has a text to speech component as required by the instructor.
 
-- The application launched successfully on the aiStarter emulator
+- Program plays a **sound** for button clicks.
+
+- Program has an option to **return to main** after losing or winning.
+
+- The application launched successfully on the aiStarter emulator.
+
+
+
 
 ####First screen of the program on MIT App Inventor 2
 ![img](http://i.imgur.com/6r5vv4J.jpg)
