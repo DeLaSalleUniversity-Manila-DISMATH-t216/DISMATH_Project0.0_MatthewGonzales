@@ -20,18 +20,18 @@ by creating buttons for choices which lead to different outcomes when interacted
 
 ####Blocks of each screen
 
-- Screen 1:
+#####Screen 1:
 ![img](http://imgur.com/Icc5CfA.jpg)
-- Screen 2:
+#####Screen 2:
 ![img](http://imgur.com/0TItX7F.jpg)
-- GATE:
+#####GATE:
 ![img](http://imgur.com/1jr2Bqh.jpg)
-- INNER1
+#####INNER1
 ![img](http://imgur.com/SZlIbV4.jpg)
-- FAIL1 & FAIL2:
+#####FAIL1 & FAIL2:
 ![img](http://imgur.com/SGASlva.jpg)
 ![img](http://imgur.com/9BFsil9.jpg)
-- WIN:
+#####WIN:
 ![img](http://imgur.com/r3ym3FI.jpg)
 
 
